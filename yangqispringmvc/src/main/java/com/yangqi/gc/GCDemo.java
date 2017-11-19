@@ -5,10 +5,22 @@ package com.yangqi.gc;
  */
 public class GCDemo {
     public static void main(String[] args) {
+        try {
+            Thread.sleep(20);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
         System.out.println("I AM START");
-        for(int i=0;;i++){
-           String s=new String("hello "+i);
-            System.out.println(s);
+        for(int i=0;i<100;i++) {
+            byte[] b = new byte[1024 * 1024 * 8];
+            byte[] b2 = new byte[1024 * 1024 * 5];
+            byte[] b3 = new byte[1024 * 1024 * 3];
+            byte[] b4 = new byte[1024 * 1024 * 4];
+            byte[] b5 = new byte[1024 * 1024 * 4];
+            byte[] b6 = new byte[1024 * 1024 * 4];
+            byte[] b7 = new byte[1024 * 1024 * 16];
+            byte[] b8 = new byte[1024 * 1024 * 8];
         }
     }
+
 }

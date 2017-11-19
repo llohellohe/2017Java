@@ -1,12 +1,13 @@
 com/yangqi/spring/CDPlayer.class
 com/yangqi/springmvc/dataobject/Spittle.class
-com/yangqi/springmvc/config/SpittrWebAppInitializer.class
+com/yangqi/gc/GCDemo.class
 com/yangqi/springmvc/service/SpittleRepository.class
 com/yangqi/springmvc/config/RootConfig.class
 com/yangqi/spring/SgtPeppers.class
+com/yangqi/springmvc/service/SpittleRepositoryImpl.class
+com/yangqi/springmvc/web/SpittleController.class
+com/yangqi/springmvc/config/SpittrWebAppInitializer.class
 com/yangqi/springmvc/web/HomeController.class
 com/yangqi/spring/CompactDisc.class
-com/yangqi/springmvc/service/SpittleRepositoryImpl.class
 com/yangqi/spring/CDPlayerConfig.class
 com/yangqi/springmvc/config/WebConfig.class
-com/yangqi/springmvc/web/SpittleController.class

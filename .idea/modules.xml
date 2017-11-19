@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/2017java.iml" filepath="$PROJECT_DIR$/2017java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yangqispringmvc/yangqispringmvc.iml" filepath="$PROJECT_DIR$/yangqispringmvc/yangqispringmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2017java.iml" filepath="$PROJECT_DIR$/2017java.iml" group="2017java and modules" />
+      <module fileurl="file://$USER_HOME$/Downloads/feature/20170331_700249_backend_yq_1/atomos-console.iml" filepath="$USER_HOME$/Downloads/feature/20170331_700249_backend_yq_1/atomos-console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaspec/javaspec.iml" filepath="$PROJECT_DIR$/javaspec/javaspec.iml" group="2017java and modules" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" group="2017java and modules" />
+      <module fileurl="file://$PROJECT_DIR$/service.impl/service.impl.iml" filepath="$PROJECT_DIR$/service.impl/service.impl.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/springboot/springboot.iml" filepath="$USER_HOME$/Downloads/springboot/springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tomcat-example/tomcat-example.iml" filepath="$PROJECT_DIR$/tomcat-example/tomcat-example.iml" />
+      <module fileurl="file://$USER_HOME$/2017/spring2017/webapp.iml" filepath="$USER_HOME$/2017/spring2017/webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yangqiconcurrency/yangqiconcurrency.iml" filepath="$PROJECT_DIR$/yangqiconcurrency/yangqiconcurrency.iml" group="2017java and modules" />
+      <module fileurl="file://$PROJECT_DIR$/yangqispringmvc/yangqispringmvc.iml" filepath="$PROJECT_DIR$/yangqispringmvc/yangqispringmvc.iml" group="2017java and modules" />
     </modules>
   </component>
 </project>
