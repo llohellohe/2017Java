@@ -59,7 +59,7 @@ public class AddTwoNumbersSolution {
     }
 
     /**
-     * 正确的，并且简单的实现
+     * 锟斤拷确锟侥ｏ拷锟斤拷锟揭简单碉拷实锟斤拷
      * @param l1
      * @param l2
      * @return
@@ -101,7 +101,6 @@ public class AddTwoNumbersSolution {
 
 
     /**
-     * 愚蠢的，而且还是错误的实现；
      * @param l1
      * @param l2
      * @return

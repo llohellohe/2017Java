@@ -19,7 +19,7 @@ public class ReverseSolution {
         int length = chars.length;
         int startindex = 0;
         StringBuilder builder = new StringBuilder();
-        //¸ºÊý
+
         if (x < 0) {
             builder.append('-');
             startindex = 1;
